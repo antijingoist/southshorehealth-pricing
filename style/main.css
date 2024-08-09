@@ -1,0 +1,42 @@
+#cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+
+.priceItem.card {
+  max-width: 20rem;
+  width: 20rem;
+  margin: 1rem;
+  border-radius: 15px;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+#content {
+  padding: 1rem;
+}
+
+.heading h1 {
+  text-align: center;
+}
+
+#filterText {
+  width: 40vw;
+  display: inline;
+  vertical-align: middle;
+}
+
+#search {
+  margin: 5px auto;
+  width: max-content;
+}
+
+#loadJSON {
+  border-radius: 15px;
+  border: 1px solid black;
+  padding: 1rem;
+  margin: 0 auto;
+  width: max-content;
+}
