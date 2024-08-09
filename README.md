@@ -8,8 +8,6 @@ This is not a pricing calculator or estimator, and it is not finished. Insurance
 
 You must provide the JSON, with the latest one available at the URL: https://www.southshorehealth.org/patient-resources/billing-insurance/pricing-information
 
-Copy and paste the URL, I'm not linking. 
-
 ## Why?
 
 South Shore Health provides the public with a "machine-readable JSON file". It may be an attempt to comply with the US Government's Hosptial Pricing Transparency laws, however, according to [CMS.gov](https://www.cms.gov/priorities/key-initiatives/hospital-price-transparency), they are required to provide information as both:
